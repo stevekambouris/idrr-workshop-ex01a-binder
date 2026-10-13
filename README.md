@@ -8,4 +8,4 @@ Click the button below to start an instance of the container defined by this rep
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevekambouris/idrr-workshop-ex01a-binder/main?urlpath=rstudio)
 
-This Docker image is based on rocker/binder:3.6.0, which has R version `3.6.0` installed, along with `tidyverse` packages (and in particular, `dplyr` version `0.8.3`).
+This Docker image is based on [rocker/binder:3.6.0](https://hub.docker.com/layers/rocker/binder/3.6.0/), which has R version `3.6.0` installed, along with `tidyverse` packages (and in particular, `dplyr` version `0.8.3`).
